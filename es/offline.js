@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1543167790,
+	"version": 1543168423,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -13,9 +13,9 @@
 		"images/one_up-sheet0.png",
 		"media/1-up.ogg",
 		"media/damage.ogg",
+		"media/game over.ogg",
 		"media/main.ogg",
 		"media/menu.ogg",
-		"media/game over.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
